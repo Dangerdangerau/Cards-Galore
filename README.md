@@ -13,8 +13,9 @@ Tabs card <img width="2042" height="190" alt="image" src="https://github.com/use
 
 <details>
 <summary>HACS (Simple)</summary>
-Simply press the add button
-<a href="https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FDangerdangerau%2FCards-Galore" target="_blank" rel="noreferrer noopener"><img src="https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg" alt="Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled." /></a>
+Simply press the add button:
+   
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=Dangerdangerau&repository=Cards-Galore&category=Dashboard" target="_blank" rel="noreferrer noopener"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open your Home Assistant instance and open a repository inside the Home Assistant Community Store." /></a>
 </details>
 
 <details>
