@@ -1,5 +1,11 @@
 {
   "name": "Cards Galore",
-  "filename": "Cards-Galore.js"
-  "content_in_root": false
+  "filename": "card-manager.js",
+  "content_in_root": true,
+  "render_readme": true,
+  "domains": ["lovelace"],
+  "description": "A collection of custom Lovelace cards",
+  "country": "AU",
+  "zip_release": false,
+  "version": "1.0.0"
 }
